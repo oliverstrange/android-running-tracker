@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Run Tracker</string>
+    <string name="new_run">New Run</string>
+    <string name="home">Home</string>
+    <string name="my_runs">My Runs</string>
+    <string name="time_heading">Elapsed Time:</string>
+    <string name="time">Time:</string>
+    <string name="distance_heading">Distance Travelled:</string>
+    <string name="speed_heading">Average Speed:</string>
+    <string name="start_time">00:00:00</string>
+    <string name="start_distance">0km</string>
+    <string name="start_speed">0km/h</string>
+    <string name="end_run">End Run</string>
+    <string name="start">Start</string>
+    <string name="date">date</string>
+    <string name="date_heading">Date:</string>
+    <string name="distance">distance</string>
+    <string name="duration">duration</string>
+    <string name="save">save</string>
+    <string name="notes">Notes:</string>
+    <string name="hint">begin typing…</string>
+    <string name="map">map</string>
+    <string name="rating">Rating:</string>
+    <string name="ratingNum">/10</string>
+    <string name="all_time_stats">All Time Records</string>
+    <string name="total_distance">Total Distance:</string>
+    <string name="average_speed">Average Speed:</string>
+    <string name="today_s_stats">Today\'s Stats</string>
+    <string name="highest_distance">Farthest Run:</string>
+    <string name="fastest_speed">Fastest Run:</string>
+</resources>
