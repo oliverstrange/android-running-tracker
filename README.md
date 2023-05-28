@@ -6,7 +6,7 @@ Location tracking implemented through google play services API
 Main functionality of this application includes:
  - A cutsom location tracking foreground service to track a run's speed, time, and route
  - Automatic management of app permissions
- - A local SQL database to save previous runs
+ - A local Room SQL database to save previous runs
  - Users are able to add notes and ratings to their previous saved runs
 
 Given more time, future fixes would include:
